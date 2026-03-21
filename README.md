@@ -1,4 +1,4 @@
-This repository contains C++ solutions to Data Structures and Algorithms problems that I solved during my first year at university.
+This repository contains C++ problems that I solved during my first year at university.
 
 ## Contents
 - Basic algorithms and data structures
